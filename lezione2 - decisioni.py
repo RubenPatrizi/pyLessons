@@ -129,7 +129,7 @@ print("-"*15)
 # Per aprire i link cliccare mentre si tiene premuto il tasto Ctrl
 # Per calcolare la radice quadrata usare la funzione sqrt()
 
-# Soluzione esercizio -> https://replit.com/@RubenPatrizi/equazionisecondogrado#main.py
+# Soluzione esercizio -> https://github.com/SSSwordsman/pyLessons/blob/master/eqazioni_soluzione.py
 
 
 from math import sqrt     # importo la funzione sqrt (vedremo meglio le importazioni più avanti)
