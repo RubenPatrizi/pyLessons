@@ -1,8 +1,7 @@
 # Introduciamo ora una delle strutture dati più utili, le liste. Una lista non è altro che una sequenza di elementi
 # che possono essere acceduti mediante indice usando la notazione con parentesi quadre, esattamente come già visto
 # per le stringhe. In una lista possiamo rimuovere elementi, aggiungerli, iterare ecc. Importante sottolineare che
-# gli elementi che compongono una lista possono essere di tipi diversi, tuttavia per evitare confusione è meglio
-# che una lista contenga un solo tipo di elementi
+# gli elementi che compongono una lista possono essere di tipi diversi
 #
 # Per creare una lista abbiamo due opzioni: utilizzare la funzione list() che restituisce una lista vuota, oppure
 # indicare gli elementi che compongono la lista tra parentesi quadre e separati da una virgola
@@ -104,6 +103,10 @@ print(matrice[2])          # il 10 è stato rimosso
 # come rimuoverla comporta lo spostamento indietro di tutte le righe successive.
 # Il concetto fondamentale quindi è che in una lista non possono esserci posizioni vuote. Se proprio abbiamo bisogno
 # di avere degli spazi vuoti possiamo utilizzare dei valori speciali che quando letti interpretiamo come posizioni vuote
+#
+# Come avrete intuito non c'è un limite al numero di dimensioni che può avere una matrice, ovvero possiamo creare
+# una lista di liste di liste di liste... ma è chiaro che strutture di questo tipo diventano facilmente ingestibili
+# o comunque molto confusionarie
 #
 print("-"*15)
 #
