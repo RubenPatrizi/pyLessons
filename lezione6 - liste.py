@@ -115,7 +115,6 @@ print("-"*15)
 # successive i suoi voti. Per ogni studente stampare il suo nome seguito dalla media dei suoi voti. Stampare infine
 # anche la media voti della classe
 #
-# Soluzione esercizio -> https://github.com/SSSwordsman/pyLessons/blob/master/classe_soluzione.py
 
 classe = [
     ["Richard",7,8,5,6,4,5,5],           # ad esempio per la prima riga vogliamo stampare "Richard -> 5.71"
